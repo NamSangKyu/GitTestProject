@@ -6,6 +6,7 @@ public class TestMain {
 		System.out.println("505 - 치킨은 네네치킨");
 		System.out.println("elzenaro - write");
 		System.out.println("bang - write");
+		System.out.println("elzenaro - test");
 
 	}
 
